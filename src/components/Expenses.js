@@ -1,5 +1,5 @@
 import ExpenseItem from "./ExpenseItem";
-import "./Expense.css";
+import "./Expenses.css";
 function Expenses(props) {
   return (
     <div className="expenses">
